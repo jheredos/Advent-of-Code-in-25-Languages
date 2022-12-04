@@ -4,7 +4,7 @@ This is my attempt at the [Advent of Code 2022](https://adventofcode.com/2022), 
 1. [Elixir](https://elixir-lang.org/)
 1. [Scala](https://scala-lang.org/)
 1. [Perl](https://www.perl.org/)
-1. ???
+1. [Ruby](https://www.ruby-lang.org/en/)
 1. ???
 1. ???
 1. ???
