@@ -8,4 +8,4 @@ Besides, a lot of the best features of CoffeeScript have already been assimilate
 Perhaps JavaScript will assimilate type annotations someday too, and then TypeScript will go the way of CoffeeScript.
 
 
-**Rating**: 10/10
+**Rating**: 9/10
