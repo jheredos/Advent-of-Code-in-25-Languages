@@ -7,7 +7,7 @@ This is my attempt at the [Advent of Code 2022](https://adventofcode.com/2022), 
 1. [Ruby](https://www.ruby-lang.org/en/) 6/10
 1. [CoffeeScript](https://coffeescript.org/) 9/10
 1. [OCaml](https://ocaml.org/) 5/10
-1. ???
+1. [Go](https://go.dev/) 7/10
 1. ???
 1. ???
 1. ???
