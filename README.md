@@ -9,7 +9,7 @@ This is my attempt at the [Advent of Code 2022](https://adventofcode.com/2022), 
 1. [OCaml](https://github.com/jheredos/Advent-of-Code-in-25-Languages/tree/main/day6-ocaml) ([site](https://ocaml.org/)) 5/10
 1. [Go](https://github.com/jheredos/Advent-of-Code-in-25-Languages/tree/main/day7-go) ([site](https://go.dev/)) 7/10
 1. [Java](https://github.com/jheredos/Advent-of-Code-in-25-Languages/tree/main/day8-java) ([site](https://www.java.com/en/)) 2/10
-1. ???
+1. [Nim](https://github.com/jheredos/Advent-of-Code-in-25-Languages/tree/main/day9-nim) ([site](https://nim-lang.org/)) 8/10
 1. ???
 1. ???
 1. ???
